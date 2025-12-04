@@ -1,0 +1,14 @@
+C:\Users\Nitro\Desktop\weeksix\task1\task1\bin\Debug\net8.0\task1.exe
+C:\Users\Nitro\Desktop\weeksix\task1\task1\bin\Debug\net8.0\task1.deps.json
+C:\Users\Nitro\Desktop\weeksix\task1\task1\bin\Debug\net8.0\task1.runtimeconfig.json
+C:\Users\Nitro\Desktop\weeksix\task1\task1\bin\Debug\net8.0\task1.dll
+C:\Users\Nitro\Desktop\weeksix\task1\task1\bin\Debug\net8.0\task1.pdb
+C:\Users\Nitro\Desktop\weeksix\task1\task1\obj\Debug\net8.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\Desktop\weeksix\task1\task1\obj\Debug\net8.0\task1.AssemblyInfoInputs.cache
+C:\Users\Nitro\Desktop\weeksix\task1\task1\obj\Debug\net8.0\task1.AssemblyInfo.cs
+C:\Users\Nitro\Desktop\weeksix\task1\task1\obj\Debug\net8.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\Desktop\weeksix\task1\task1\obj\Debug\net8.0\task1.dll
+C:\Users\Nitro\Desktop\weeksix\task1\task1\obj\Debug\net8.0\refint\task1.dll
+C:\Users\Nitro\Desktop\weeksix\task1\task1\obj\Debug\net8.0\task1.pdb
+C:\Users\Nitro\Desktop\weeksix\task1\task1\obj\Debug\net8.0\task1.genruntimeconfig.cache
+C:\Users\Nitro\Desktop\weeksix\task1\task1\obj\Debug\net8.0\ref\task1.dll
